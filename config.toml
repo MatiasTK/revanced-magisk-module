@@ -17,3 +17,14 @@ excluded-patches = "'Old video quality menu' 'Vanced MicroG support' 'Enable deb
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 build-mode = "both"
+<<<<<<< HEAD
+=======
+
+[com.adobe.lrmobile]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+uptodown-dlurl = "https://adobe-lightroom-mobile.uptodown.com/android"
+apkmonk-dlurl = "https://www.apkmonk.com/app/com.adobe.lrmobile/"
+apkmirror-arch = "arm64-v8a"
+version = "auto"
+build-mode = "both"
+>>>>>>> fea7f8e (Fixed lightroom build)
