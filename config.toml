@@ -20,4 +20,5 @@ build-mode = "both"
 
 [Lightroom Photo & Video Editor]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+apkmirror-arch = "arm64-v8a"
 build-mode = "both"
