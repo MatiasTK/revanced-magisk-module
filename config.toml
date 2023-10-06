@@ -1,5 +1,5 @@
-logging-to-file = true        # enables logging of every patch process to a seperate file
-enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
+logging-to-file = true      # enables logging of every patch process to a seperate file
+enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
@@ -16,12 +16,4 @@ excluded-patches = "'Old video quality menu' 'Vanced MicroG support' 'Enable deb
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-build-mode = "both"
-
-[com.adobe.lrmobile]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-uptodown-dlurl = "https://adobe-lightroom-mobile.uptodown.com/android"
-apkmonk-dlurl = "https://www.apkmonk.com/app/com.adobe.lrmobile/"
-apkmirror-arch = "arm64-v8a"
-version = "auto"
 build-mode = "both"
