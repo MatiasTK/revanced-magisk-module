@@ -1,6 +1,6 @@
 {
-  "version": "v10.12.0-release.0",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/MatiasTK/revanced-magisk-module/releases/download/7/twitter-revanced-magisk-v10.12.0-release.0-all.zip",
+  "version": "v10.14.0-release.0",
+  "versionCode": 8,
+  "zipUrl": "https://github.com/MatiasTK/revanced-magisk-module/releases/download/8/twitter-revanced-magisk-v10.14.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/MatiasTK/revanced-magisk-module/update/build.md"
 }
