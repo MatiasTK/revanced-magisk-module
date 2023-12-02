@@ -1,6 +1,6 @@
 {
   "version": "v9.0.1",
-  "versionCode": 14,
-  "zipUrl": "https://github.com/MatiasTK/revanced-magisk-module/releases/download/14/com.adobe.lrmobile-revanced-magisk-v9.0.1-arm64-v8a.zip",
+  "versionCode": 15,
+  "zipUrl": "https://github.com/MatiasTK/revanced-magisk-module/releases/download/15/com.adobe.lrmobile-revanced-magisk-v9.0.1-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/MatiasTK/revanced-magisk-module/update/build.md"
 }
