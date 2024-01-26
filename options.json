@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "patchName": "GmsCore support",
+    "options": [
+      {
+        "key": "gmsCoreVendor",
+        "value": "app.revanced.android.youtube"
+      }
+    ]
+  }
+]
+       
