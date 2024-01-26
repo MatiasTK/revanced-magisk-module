@@ -12,7 +12,7 @@ excluded-patches = "'SIM spoof'"
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-excluded-patches = "'Old video quality menu' 'Vanced MicroG support' 'Enable debugging' 'Hide cast button' 'Spoof app version'"
+excluded-patches = "'Enable debugging'"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
