@@ -10,9 +10,11 @@ build-mode = "both"
 excluded-patches = "'SIM spoof'"
 
 [YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 excluded-patches = "'Enable debugging'"
+included-patches = ""
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
