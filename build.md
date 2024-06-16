@@ -1,5 +1,6 @@
-Twitter: 10.43.0-release.0  
+Twitter: 10.45.1-release.0  
 YouTube: 19.16.39  
+TickTick: 7.2.1.0  
 Tiktok: 32.5.3  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
