@@ -19,3 +19,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 build-mode = "both"
+
+[TickTick]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+build-mode = "both"
