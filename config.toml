@@ -1,13 +1,9 @@
-logging-to-file = true       # enables logging of every patch process to a seperate file
-enable-magisk-update = false # set this to false if you do not want to receive updates for the module in magisk app
+enable-magisk-update = false   # set this to false if you do not want to receive updates for the module in magisk app
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
-[Tiktok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-build-mode = "apk"
-excluded-patches = "'SIM spoof'"
+# you can use rvmm-config-gen to generate a config
 
 [YouTube]
 build-mode = "apk"
@@ -15,6 +11,17 @@ excluded-patches = "'Enable debugging'"
 included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+
+[YouTube-Extended]
+app-name = "YouTube"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
+rv-brand = "ReVanced Extended"
+build-mode = "apk"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+included-patches = "'Custom header for YouTube' 'Visual preferences icons'"
+excluded-patches = "'Enable debugging'"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
