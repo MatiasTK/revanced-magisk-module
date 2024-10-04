@@ -4,14 +4,6 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 # you can use rvmm-config-gen to generate a config
-
-[YouTube]
-build-mode = "apk"
-excluded-patches = "'Enable debugging'"
-included-patches = ""
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-
 [YouTube-Extended]
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
