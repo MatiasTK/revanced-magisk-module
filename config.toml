@@ -20,3 +20,6 @@ excluded-patches = "'Enable debugging'"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 build-mode = "apk"
+
+[Infinity For Reddit]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
