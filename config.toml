@@ -31,6 +31,9 @@ build-mode = "apk"
 apkmirror-dpi = "120-640dpi"
 
 [Infinity_For_Reddit]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
-uptodown-dlurl = "https://infinity-for-reddit.uptodown.com/android"
-apkmirror-dpi = "120-640dpi"
+archive-dlurl = "https://archive.org/download/latest-infinity-patreon-for-revanced/apks/ml.docilealligator.infinityforreddit"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
+# uptodown-dlurl = "https://infinity-for-reddit.uptodown.com/android"
+# apkmirror-dpi = "120-640dpi"
+patcher-args = "-Oclient-id=_mmOs9BhDuXrQO2mLzRAcA"
+included-patches = "'Unlock subscription' 'Spoof client'"
