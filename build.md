@@ -1,6 +1,6 @@
 GooglePhotos (arm64-v8a): 7.10.0.703144258  
 GooglePhotos (arm-v7a): 7.10.0.703144258  
-Infinity_For_Reddit: 7.4.1  
+Infinity_For_Reddit: 7.4.0  
 Twitter: 10.62.1-release.0  
 YouTube-Extended: 19.16.39  
 
