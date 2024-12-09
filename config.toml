@@ -18,7 +18,7 @@ included-patches = "'Custom header for YouTube' 'Visual preferences icons'"
 excluded-patches = "'Enable debugging'"
 
 [GooglePhotos]
-build-mode = "both"
+build-mode = "apk"
 arch = "both"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
