@@ -1,4 +1,4 @@
-GooglePhotos: 7.17.0.725321504  
+GooglePhotos: 7.18.0.729565054  
 Infinity_For_Reddit: 7.4.0  
 Twitter: 10.62.1-release.0  
 
@@ -8,8 +8,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.12.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.12.0)  
+Patches: ReVanced/patches-5.13.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0)  
 
 Skipped:  
-Patches: inotia00/patches-5.4.1.rvp    
+Patches: inotia00/patches-5.4.1.rvp      
