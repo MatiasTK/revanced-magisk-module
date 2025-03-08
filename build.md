@@ -1,6 +1,7 @@
 GooglePhotos: 7.19.0.733486757  
 Infinity_For_Reddit: 7.4.0  
-Music-Extended: 7.16.53  
+Music-Extended (arm64-v8a): 7.16.53  
+Music-Extended (arm-v7a): 7.16.53  
 Twitter: 10.83.0-release.0  
 YouTube-Extended: 19.44.39  
 
