@@ -13,20 +13,17 @@ rv-brand = "ReVanced Extended"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 included-patches = "'Custom header for YouTube' 'Visual preferences icons'"
 excluded-patches = "'Enable debugging'"
 
 [Music-Extended]
-app-name = "YT Music"
+app-name = "Music"
 patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://ia600503.us.archive.org/7/items/jhc-apks/apks/com.google.android.apps.youtube.music/"
 
 [GooglePhotos]
 build-mode = "apk"
@@ -37,7 +34,6 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 build-mode = "apk"
 apkmirror-dpi = "120-640dpi"
 
