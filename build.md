@@ -1,7 +1,7 @@
 GooglePhotos: 7.19.0.733486757  
 Infinity_For_Reddit: 7.4.0  
 Music-Extended: 7.16.53  
-Twitter: 10.62.1-release.0  
+Twitter: 10.83.0-release.0  
 YouTube-Extended: 19.44.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
