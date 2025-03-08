@@ -18,12 +18,16 @@ excluded-patches = "'Enable debugging'"
 
 [Music-Extended]
 app-name = "Music"
+arch = "both"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+version = "auto"
+included-patches = ""
+excluded-patches = ""
 
 [GooglePhotos]
 build-mode = "apk"
