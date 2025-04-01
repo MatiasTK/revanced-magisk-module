@@ -1,5 +1,6 @@
 GooglePhotos: 7.22.0.740933857  
 Infinity_For_Reddit: 7.4.0  
+Spotify: 9.0.34.220  
 Twitter: 10.84.0-release.0  
 YouTube-Extended: 19.47.53  
 
