@@ -17,6 +17,7 @@ included-patches = "'Custom header for YouTube' 'Visual preferences icons'"
 excluded-patches = "'Enable debugging'"
 
 [Spotify]
+enabled = false
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
