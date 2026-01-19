@@ -1,0 +1,23 @@
+# Git
+.git
+.github
+
+# Build artifacts (will be mounted as volume)
+build/
+temp/
+logs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Documentation
+*.md
+!CONFIG.md
+
+# Misc
+.gitignore
+.dockerignore

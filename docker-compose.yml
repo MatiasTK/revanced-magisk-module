@@ -1,0 +1,17 @@
+services:
+  revanced-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: revanced-builder
+    volumes:
+      # Mount build output directory to access generated APKs and modules
+      - ./build:/app/build
+      # Mount config file to customize builds without rebuilding image
+      - ./config.toml:/app/config.toml:ro
+    environment:
+      # Optional: Set GitHub token for higher API rate limits
+      - GITHUB_TOKEN=${GITHUB_TOKEN:-}
+    # Keep container running for debugging if needed
+    # stdin_open: true
+    # tty: true
