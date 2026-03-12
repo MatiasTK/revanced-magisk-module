@@ -44,7 +44,7 @@ build-mode = "apk"
 apkmirror-dpi = "120-640dpi"
 
 [Infinity_For_Reddit]
-enabled = true
+enabled = false
 archive-dlurl = "https://archive.org/download/latest-infinity-patreon-for-revanced/apks/ml.docilealligator.infinityforreddit"
 # Apkmirror & uptodown links are different version, needs the one from github this is why it uses archive link
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
