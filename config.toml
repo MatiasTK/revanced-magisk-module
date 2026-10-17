@@ -11,8 +11,8 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+enable-update-checks = true
 
 [Music-Morphe]
 app-name = "Music"
@@ -22,15 +22,17 @@ rv-brand = "Morphe"
 build-mode = "apk"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+enable-update-checks = true
 
 [GooglePhotos]
 build-mode = "apk"
 patches-source = "RookieEnough/De-Vanced"
+rv-brand = "DeVanced"
 cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
+enable-update-checks = true
 
 [Twitter]
 enabled = true
