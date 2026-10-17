@@ -1,3 +1,4 @@
+GooglePhotos: 7.92.0.977185651  
 Music-Morphe (arm64-v8a): 9.20.53  
 Music-Morphe (arm-v7a): 9.20.53  
 YouTube-Morphe: 21.20.405  
@@ -7,13 +8,13 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: crimera/patches-3.10.0.mpp  
+Patches: crimera/piko/patches-3.10.0.mpp  
 [Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0)
 
-Patches: MorpheApp/patches-1.47.0.mpp  
+Patches: MorpheApp/morphe-patches/patches-1.47.0.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.47.0)
 
-CLI: MorpheApp/morphe-desktop-1.18.1-all.jar    
+Patches: RookieEnough/De-Vanced/patches-1.5.1.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.5.1)
 
-Skipped:  
-Patches: RookieEnough/patches-1.5.1.mpp    
+CLI: MorpheApp/morphe-cli/morphe-desktop-1.18.1-all.jar    
